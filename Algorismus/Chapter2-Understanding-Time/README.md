@@ -40,6 +40,7 @@ Also known as Big-O, this notation is a quick and easy way to convey how fast an
 | O(n!)  | Factorial Time  | Permutation Generation  |
 
 *Binary Search will be covered in-depth later on
+
 **Some practitioners of *Algorismus* will claim that O(n<sup>2</sup>) is not quadratic, rather it is *Polynomial*. This is all semantical. A polynomial time is O(n<sup>x</sup>) where *x* is a real number. Do not be decieved by these fanatics.
 
 Refer to the scriptures in this chapter to see in-depth analysis of examples of time complexities. 
