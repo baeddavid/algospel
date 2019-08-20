@@ -8,4 +8,4 @@ https://leetcode.com/
 
 https://www.codewars.com/
 
-For those who prefer guidance or request help feel, free to offer a *pull request* with a question.
+For those who prefer assistance or want help, feel free to offer a [*pull request*](https://github.com/eyybaebae/algospel/pulls) with a question. Questions will be added to [Requested-Hymns](./Requested-Hymns) available for disciples to attempt.
