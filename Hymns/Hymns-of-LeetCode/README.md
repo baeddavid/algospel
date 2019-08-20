@@ -1,3 +1,3 @@
-# A Collection of Cymns from LeetCode
+# A Collection of Hymns from LeetCode
 
 1. [arrays](./arrays)
