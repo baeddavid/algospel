@@ -8,4 +8,4 @@ https://leetcode.com/
 
 https://www.codewars.com/
 
-For those who prefer guidance or request help feel free to offer a *pull request* with a question.
+For those who prefer guidance or request help feel, free to offer a *pull request* with a question.
