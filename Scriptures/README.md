@@ -4,7 +4,7 @@ There are many holy works that accompany the study of *Algorismus*. Below are re
 
 1. [*Introduction to Algorithms*](http://web.karabuk.edu.tr/hakankutucu/CME222/MIT[1].Press.Introduction.to.Algorithms.2nd.Edition.eBook-TLFeBOOK.pdf) by CLRS
 
-This text is considered by many to be the best resouce for studying algorithms. Thebook covers many important algorithms. It's only flaw is that it is heavy in mathwhich may deter readers. Knowledge of set theory, limits, and discrete math helps butis not required.
+This text is considered by many to be the best resouce for studying algorithms. Thebook covers many important algorithms. It's only flaw is that it is heavy in mathwhich may deter readers. Knowledge of set theory, limits, and discrete math helps but is not required.
 
 2. [*Algorithms*](http://www.cs.bu.edu/~snyder/cs112/CourseMaterials/AlgorithmsChapterOne.pdf) by Robert Sedgewick
 
