@@ -17,7 +17,7 @@ upstream    https://github.com/eyybaebae/algospel.git(fetch)
 upstream    https://github.com/eyybaebae/algospel.git(push)
 ```
 
-4. Now you can add files/edit files. After doing whatever changes, go ahead and submt a pull request. I'll go ahead and merge it as long as it's not horribly incorrect.
+4. Now you can add files/edit files. After doing whatever changes, go ahead and submit a [pull request](https://github.com/eyybaebae/algospel/pulls). I'll go ahead and merge it.
 
 5. After files have been merged, your local repo may be behind. You can keep it up to date by calling `git fetch upstream` which will update your local repo to the master repo.
 
