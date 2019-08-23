@@ -19,4 +19,4 @@ Now you can add files/edit files. After doing whatever changes, go ahead and sub
 
 After files have been merged, you local repo may be behind. You can keep it up to date by calling `git fetch upstream` which will update your local repo to the master repo.`
 
-If you still don't know how to go about submitting a pull request to submit or solve a problem take a quick look at [this](https://www.atlassian.com/git/tutorials/making-a-pull-request) guide on how to set it up.
+If you still don't know how to go about submitting a pull request to submit or solve a problem take a quick look at [this](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) guide on how to set it up.
